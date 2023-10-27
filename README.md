@@ -1,4 +1,4 @@
-# music-organizer
+# music-manager
 The `music-copy` script now does the following:
 
 - Prompts the user to enter the paths to their music library and the directory where they want to organize their music.
